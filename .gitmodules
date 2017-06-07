@@ -1,0 +1,6 @@
+[submodule "ninchat-nodejs"]
+	path = ninchat-nodejs
+	url = https://github.com/ninchat/ninchat-nodejs.git
+[submodule "ninchat-js"]
+	path = ninchat-js
+	url = https://github.com/ninchat/ninchat-js.git

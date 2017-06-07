@@ -1,0 +1,10 @@
+{
+  "name": "ninchat-js-test",
+  "version": "0.0.0",
+  "main": "test.js",
+  "license": "BSD 2-Clause",
+  "dependencies": {
+    "ws": "^3.0.0",
+    "xhr2": "^0.1.4"
+  }
+}
